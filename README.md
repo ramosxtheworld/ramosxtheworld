@@ -32,3 +32,8 @@ Formado em Análise e Desenvolvimento de Sistemas, atualmente direcionando minha
 <img align="center"alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg"><img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 
 #
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramosxtheworld/ramosxtheworld/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramosxtheworld/ramosxtheworld/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ramosxtheworld/ramosxtheworld/output/snake.svg">
+</picture>
